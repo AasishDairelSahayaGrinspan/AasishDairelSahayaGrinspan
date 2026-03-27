@@ -3,7 +3,7 @@
     "id": "a-commit",
     "tier": 1,
     "desc": "One of my commit sha starts with \"a\".",
-    "body": "- <a href=\"https://github.com/AasishDairelSahayaGrinspan/auto_keyword/commit/aa3cfb64ce93f1d2c4951ce5b7469598df4f721b\"><strong>a</strong>a3cfb64ce93f1d2c4951ce5b7469598df4f721b</a>",
+    "body": "- <a href=\"https://github.com/AasishDairelSahayaGrinspan/datatypes_variable/commit/a758279dee042d4c338893bd595330d18736610b\"><strong>a</strong>758279dee042d4c338893bd595330d18736610b</a>",
     "image": "https://my-badges.github.io/my-badges/a-commit.png"
   },
   {
@@ -38,7 +38,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 61 times)\n2. azure (used 40 times)\n3. added (used 35 times)\n4. build (used 35 times)\n5. frontend (used 33 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 61 times)\n2. azure (used 40 times)\n3. build (used 35 times)\n4. added (used 35 times)\n5. deployment (used 33 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -110,5 +110,19 @@
     "desc": "I commit in the evening.",
     "body": "Commits:\n\n- <a href=\"https://github.com/AasishDairelSahayaGrinspan/CalmNest_bot/commit/4fc6451d8ef36178996fceef09f2c5cc30035116\">4fc6451</a>\n- <a href=\"https://github.com/AasishDairelSahayaGrinspan/CalmNest_bot/commit/db5f860fe481872e58c7aab90399e6577853e092\">db5f860</a>\n- <a href=\"https://github.com/AasishDairelSahayaGrinspan/CalmNest_bot/commit/8cdc3063f1d5f28299d65fdce2de459b151d1f43\">8cdc306</a>\n- <a href=\"https://github.com/AasishDairelSahayaGrinspan/CalmNest_bot/commit/5da9ef413d6c738f401fb23f2480cb2cc497c5e9\">5da9ef4</a>\n- <a href=\"https://github.com/AasishDairelSahayaGrinspan/cpp-question-answer/commit/c725bf764c0d9247cbd6afb39971e0a9fdf77938\">c725bf7</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
+  },
+  {
+    "id": "rebel-coder",
+    "tier": 0,
+    "desc": "I am a rebel coder.",
+    "body": "I do not use words like \"thanks\" and \"please\" in my issues.\nStraight to the point!",
+    "image": "https://my-badges.github.io/my-badges/rebel-coder.png"
+  },
+  {
+    "id": "self-star",
+    "tier": 0,
+    "desc": "I've starred 4 my own repositories.",
+    "body": "- <a href=\"https://github.com/AasishDairelSahayaGrinspan/CalmNest_bot\">AasishDairelSahayaGrinspan/CalmNest_bot</a>\n- <a href=\"https://github.com/AasishDairelSahayaGrinspan/dns.toys\">AasishDairelSahayaGrinspan/dns.toys</a>\n- <a href=\"https://github.com/AasishDairelSahayaGrinspan/Unravel-Mental-Wellness-app\">AasishDairelSahayaGrinspan/Unravel-Mental-Wellness-app</a>\n- <a href=\"https://github.com/AasishDairelSahayaGrinspan/RepoAnt\">AasishDairelSahayaGrinspan/RepoAnt</a>",
+    "image": "https://my-badges.github.io/my-badges/self-star.png"
   }
 ]

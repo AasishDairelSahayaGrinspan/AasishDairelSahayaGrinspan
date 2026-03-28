@@ -38,7 +38,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 61 times)\n2. azure (used 40 times)\n3. build (used 35 times)\n4. added (used 35 times)\n5. deployment (used 33 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 62 times)\n2. azure (used 40 times)\n3. build (used 35 times)\n4. added (used 35 times)\n5. update (used 33 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -101,7 +101,7 @@
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/AasishDairelSahayaGrinspan/RepoAnt/commit/e2d780e28c6610cd7857c27397ef3f7e5d0e6297\">e2d780e</a>\n- <a href=\"https://github.com/AasishDairelSahayaGrinspan/chat_cli/commit/a622c0548bb54f1334dcc666ddf8d79a78b068e2\">a622c05</a>\n- <a href=\"https://github.com/AasishDairelSahayaGrinspan/CodeMentor/commit/611b435fa9d276049a8ad895594b995a06d7dbe3\">611b435</a>\n- <a href=\"https://github.com/AasishDairelSahayaGrinspan/CodeMentor/commit/5bc647e4fbd913ac20139a8146494be799996ebd\">5bc647e</a>\n- <a href=\"https://github.com/AasishDairelSahayaGrinspan/CodeMentor/commit/ddba41694fc6df4aafc322adeaccbe4070162f04\">ddba416</a>\n- <a href=\"https://github.com/AasishDairelSahayaGrinspan/CodeMentor/commit/71cf793bd0514a60bed3a29f38fb64b507cfa55c\">71cf793</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/AasishDairelSahayaGrinspan/my_website/commit/d17193f176c07a1aeafd499607ca1e494559050d\">d17193f</a>\n- <a href=\"https://github.com/AasishDairelSahayaGrinspan/my_website/commit/bbdeb4400da23f01d91931431447ad691304b637\">bbdeb44</a>\n- <a href=\"https://github.com/AasishDairelSahayaGrinspan/my_website/commit/b666dc1e6052ae3609666debad64dd2b5b103fa6\">b666dc1</a>\n- <a href=\"https://github.com/AasishDairelSahayaGrinspan/RepoAnt/commit/e2d780e28c6610cd7857c27397ef3f7e5d0e6297\">e2d780e</a>\n- <a href=\"https://github.com/AasishDairelSahayaGrinspan/chat_cli/commit/a622c0548bb54f1334dcc666ddf8d79a78b068e2\">a622c05</a>\n- <a href=\"https://github.com/AasishDairelSahayaGrinspan/CodeMentor/commit/611b435fa9d276049a8ad895594b995a06d7dbe3\">611b435</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {

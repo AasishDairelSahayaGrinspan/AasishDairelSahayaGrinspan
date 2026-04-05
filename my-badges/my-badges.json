@@ -38,7 +38,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 63 times)\n2. azure (used 40 times)\n3. build (used 35 times)\n4. added (used 35 times)\n5. update (used 33 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 63 times)\n2. azure (used 42 times)\n3. build (used 37 times)\n4. added (used 35 times)\n5. update (used 33 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -52,7 +52,7 @@
     "id": "fix-4",
     "tier": 3,
     "desc": "I did 4 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/AasishDairelSahayaGrinspan/CodeMentor/commit/2b76bf0294cc7e883321a753aabf7bce4f6bd3f0\">2b76bf0</a>: fix: add align-items stretch and flex:1 for proper layout\n- <a href=\"https://github.com/AasishDairelSahayaGrinspan/CodeMentor/commit/285f7ffbf60457b1a2cfd6c24797e96bff0b8e0b\">285f7ff</a>: fix: use Llama 4 Scout for images, fix layout with margin-top auto\n- <a href=\"https://github.com/AasishDairelSahayaGrinspan/CodeMentor/commit/9d2dfe3fe95c00aff59dc39ea27a4e512d0cbc12\">9d2dfe3</a>: fix: use AI Vision for images, sticky positioning for static elements\n- <a href=\"https://github.com/AasishDairelSahayaGrinspan/CodeMentor/commit/a0818fcb98589177bc68be41c912cc936a98f35c\">a0818fc</a>: fix: layout - keep footer/input fixed at bottom, scrollable content areas",
+    "body": "Commits:\n\n- <a href=\"https://github.com/AasishDairelSahayaGrinspan/text-editor/commit/c6e76fdb0a2ef99c5d11da3b9fb504df2c53d59d\">c6e76fd</a>: fix: sync title state and cursor placement with alignment\n- <a href=\"https://github.com/AasishDairelSahayaGrinspan/text-editor/commit/aeb28f0271b816ebda4fd6f521cdd9efe96b9f91\">aeb28f0</a>: fix: restore editor render and sync alignment/share permissions\n- <a href=\"https://github.com/AasishDairelSahayaGrinspan/text-editor/commit/ba3aba7f33fb0daf947878cf6d33c5d974b83810\">ba3aba7</a>: fix: include dev deps during azure postinstall\n- <a href=\"https://github.com/AasishDairelSahayaGrinspan/text-editor/commit/994b9b0303136ba63a834676f8d263f104eebcc7\">994b9b0</a>: fix: install server and client deps during azure build",
     "image": "https://my-badges.github.io/my-badges/fix-4.png"
   },
   {

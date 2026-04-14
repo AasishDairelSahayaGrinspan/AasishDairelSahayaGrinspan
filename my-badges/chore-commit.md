@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/AasishDairelSahayaGrinspan/CodeMentor/commit/bba32dbeae061b1c5fbc38cddd37cb36dd621fcf">bba32db</a>: chore: remove specific features and text from landing page
+- <a href="https://github.com/AasishDairelSahayaGrinspan/homebrew-repoant/commit/d589fa810177bb99d95c3402759dc50d3008bd22">d589fa8</a>: chore: initialize tap repository
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

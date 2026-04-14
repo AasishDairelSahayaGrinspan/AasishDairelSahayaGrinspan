@@ -8,7 +8,7 @@ My favorite commit message words are:
 2. azure (used 42 times)
 3. build (used 37 times)
 4. added (used 35 times)
-5. update (used 33 times)
+5. deployment (used 34 times)
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

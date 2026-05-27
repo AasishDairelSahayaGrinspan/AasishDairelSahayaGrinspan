@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=AasishDairelSahayaGrinspan)
-
 Hi! I am Aasish Dairel
 =====================================================================================================================================
 
@@ -48,3 +46,5 @@ I enjoy learning new technologies, and I like contributing to open-source softwa
 <a href="my-badges/rebel-coder.md"><img src="https://my-badges.github.io/my-badges/rebel-coder.png" alt="I am a rebel coder." title="I am a rebel coder." width="64"></a>
 <a href="my-badges/alien-day.md"><img src="https://my-badges.github.io/my-badges/alien-day.png" alt="I committed on the day when the crew of the USCSS Nostromo made their fateful landing and discovered the Xenomorph on LV-426!" title="I committed on the day when the crew of the USCSS Nostromo made their fateful landing and discovered the Xenomorph on LV-426!" width="64"></a>
 <!-- my-badges end -->
+![](https://komarev.com/ghpvc/?username=AasishDairelSahayaGrinspan)
+

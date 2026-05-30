@@ -131,5 +131,12 @@
     "desc": "One of my commit sha starts with \"ab\".",
     "body": "- <a href=\"https://github.com/AasishDairelSahayaGrinspan/AasishDairelSahayaGrinspan/commit/abba5b30e6beb35ed02ea884ec6c7c5fc23a79f5\"><strong>ab</strong>ba5b30e6beb35ed02ea884ec6c7c5fc23a79f5</a>",
     "image": "https://my-badges.github.io/my-badges/ab-commit.png"
+  },
+  {
+    "id": "self-star",
+    "tier": 0,
+    "desc": "I've starred 4 my own repositories.",
+    "body": "- <a href=\"https://github.com/AasishDairelSahayaGrinspan/CalmNest_bot\">AasishDairelSahayaGrinspan/CalmNest_bot</a>\n- <a href=\"https://github.com/AasishDairelSahayaGrinspan/dns.toys\">AasishDairelSahayaGrinspan/dns.toys</a>\n- <a href=\"https://github.com/AasishDairelSahayaGrinspan/Unravel-Mental-Wellness-app\">AasishDairelSahayaGrinspan/Unravel-Mental-Wellness-app</a>\n- <a href=\"https://github.com/AasishDairelSahayaGrinspan/RepoAnt\">AasishDairelSahayaGrinspan/RepoAnt</a>",
+    "image": "https://my-badges.github.io/my-badges/self-star.png"
   }
 ]

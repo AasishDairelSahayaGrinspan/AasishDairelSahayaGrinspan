@@ -1,7 +1,7 @@
 Hi! I am Aasish Dairel
 =====================================================================================================================================
 
-I love tinkering with software.
+I love tinkering with software
 -------------------------------
 
 I enjoy learning new technologies, and I like contributing to open-source software.

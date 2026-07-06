@@ -38,7 +38,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 63 times)\n2. azure (used 42 times)\n3. build (used 41 times)\n4. update (used 39 times)\n5. added (used 39 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 63 times)\n2. azure (used 42 times)\n3. build (used 41 times)\n4. update (used 40 times)\n5. added (used 39 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -131,5 +131,12 @@
     "desc": "I have four public keys",
     "body": "",
     "image": "https://my-badges.github.io/my-badges/public-keys-4.png"
+  },
+  {
+    "id": "self-star",
+    "tier": 0,
+    "desc": "I've starred 4 my own repositories.",
+    "body": "- <a href=\"https://github.com/AasishDairelSahayaGrinspan/CalmNest_bot\">AasishDairelSahayaGrinspan/CalmNest_bot</a>\n- <a href=\"https://github.com/AasishDairelSahayaGrinspan/dns.toys\">AasishDairelSahayaGrinspan/dns.toys</a>\n- <a href=\"https://github.com/AasishDairelSahayaGrinspan/Unravel-Mental-Wellness-app\">AasishDairelSahayaGrinspan/Unravel-Mental-Wellness-app</a>\n- <a href=\"https://github.com/AasishDairelSahayaGrinspan/RepoAnt\">AasishDairelSahayaGrinspan/RepoAnt</a>",
+    "image": "https://my-badges.github.io/my-badges/self-star.png"
   }
 ]

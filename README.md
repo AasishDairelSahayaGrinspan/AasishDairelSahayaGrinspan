@@ -9,7 +9,7 @@ I enjoy learning new technologies, and I like contributing to open-source softwa
 *   🌍  I'm based in Chennai, India
 *   🖥️  See my portfolio at [aasishdairel.tech](http://aasishdairel.tech)
 *   ✉️  You can contact me at [aasishdairel@gmail.com](mailto:aasishdairel@gmail.com)
-*   🧠  I love writing code in C++, Swift ,pyhton  
+*   🧠  I love writing code in C++, Swift ,python  
 *   👥  I'm looking to collaborate on anything tech-related
 *   💬  Ask me about why I'm secretly Batman... don't tell anyone
 <p align="left">

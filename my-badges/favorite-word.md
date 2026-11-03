@@ -4,11 +4,11 @@
 
 My favorite commit message words are:
 
-1. add (used 63 times)
-2. azure (used 42 times)
-3. build (used 41 times)
-4. update (used 41 times)
-5. added (used 39 times)
+1. add (used 80 times)
+2. build (used 46 times)
+3. update (used 46 times)
+4. co-authored-by: (used 42 times)
+5. azure (used 42 times)
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

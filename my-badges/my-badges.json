@@ -12,5 +12,138 @@
     "desc": "I have four public keys",
     "body": "",
     "image": "https://my-badges.github.io/my-badges/public-keys-4.png"
+  },
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/AasishDairelSahayaGrinspan/datatypes_variable/commit/a758279dee042d4c338893bd595330d18736610b\"><strong>a</strong>758279dee042d4c338893bd595330d18736610b</a>",
+    "image": "https://my-badges.github.io/my-badges/a-commit.png"
+  },
+  {
+    "id": "ab-commit",
+    "tier": 2,
+    "desc": "One of my commit sha starts with \"ab\".",
+    "body": "- <a href=\"https://github.com/AasishDairelSahayaGrinspan/AasishDairelSahayaGrinspan/commit/abba5b30e6beb35ed02ea884ec6c7c5fc23a79f5\"><strong>ab</strong>ba5b30e6beb35ed02ea884ec6c7c5fc23a79f5</a>",
+    "image": "https://my-badges.github.io/my-badges/ab-commit.png"
+  },
+  {
+    "id": "abc-commit",
+    "tier": 3,
+    "desc": "One of my commit sha starts with \"abc\".",
+    "body": "- <a href=\"https://github.com/AasishDairelSahayaGrinspan/student_records/commit/abca8c0533cb8e9d57c65684e3aa532038d3aae6\"><strong>abc</strong>a8c0533cb8e9d57c65684e3aa532038d3aae6</a>",
+    "image": "https://my-badges.github.io/my-badges/abc-commit.png"
+  },
+  {
+    "id": "alien-day",
+    "tier": 0,
+    "desc": "I committed on the day when the crew of the USCSS Nostromo made their fateful landing and discovered the Xenomorph on LV-426!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/AasishDairelSahayaGrinspan/neon_runner/commit/93ea338b2e561958e52849091800761c928ff434\">93ea338</a>\n- <a href=\"https://github.com/AasishDairelSahayaGrinspan/neon_runner/commit/67774f8d84839c2216fb469b7c37b0f82829a0fd\">67774f8</a>",
+    "image": "https://my-badges.github.io/my-badges/alien-day.png"
+  },
+  {
+    "id": "cafe-commit",
+    "tier": 0,
+    "desc": "I pushed a commit with \"cafe\" once.",
+    "body": "- <a href=\"https://github.com/AasishDairelSahayaGrinspan/AasishDairelSahayaGrinspan/commit/f7a3d4f6bffa21aecc6ebc6197732c945fd0cafe\">f7a3d4f6bffa21aecc6ebc6197732c945fd0<strong>cafe</strong></a>",
+    "image": "https://my-badges.github.io/my-badges/cafe-commit.png"
+  },
+  {
+    "id": "chore-commit",
+    "tier": 0,
+    "desc": "I did a little housekeeping! 🧹",
+    "body": "Commits:\n\n- <a href=\"https://github.com/AasishDairelSahayaGrinspan/EVE_backend/commit/89005be1e58275742e62562d2f16caa30b28d569\">89005be</a>: chore: project setup, config, db session, logging",
+    "image": "https://my-badges.github.io/my-badges/chore-commit.png"
+  },
+  {
+    "id": "epic-commit",
+    "tier": 0,
+    "desc": "I made an epic commit with a message over 500 chars.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/AasishDairelSahayaGrinspan/chat_cli/commit/2e4362a46ef073ed35c993c1a45d0647aeb38464\">2e4362a</a>\n- <a href=\"https://github.com/AasishDairelSahayaGrinspan/chat_cli/commit/cf7dd75732dd9166c57d6fcf6fdd314bbe9e4673\">cf7dd75</a>\n- <a href=\"https://github.com/AasishDairelSahayaGrinspan/chat_cli/commit/bc2867ba82a559182f72cd45d2bae564ad3d9aa5\">bc2867b</a>\n- <a href=\"https://github.com/AasishDairelSahayaGrinspan/chat_cli/commit/76094e88d5baa7864ba3229378da9ea8f07c5d4b\">76094e8</a>\n- <a href=\"https://github.com/AasishDairelSahayaGrinspan/chat_cli/commit/3d2cdc960426fce31859391320276051ec240b3d\">3d2cdc9</a>\n- <a href=\"https://github.com/AasishDairelSahayaGrinspan/chat_cli/commit/194eedaece5b985c81cb46f0d946ef587e175895\">194eeda</a>\n- <a href=\"https://github.com/AasishDairelSahayaGrinspan/CalmNest_bot/commit/aec53e778928c2012ad2304beaea8043882338ee\">aec53e7</a>\n- <a href=\"https://github.com/AasishDairelSahayaGrinspan/CalmNest_bot/commit/c34364a6f55ed342bd72a5a0552a5b7aacdc5c8b\">c34364a</a>",
+    "image": "https://my-badges.github.io/my-badges/epic-commit.png"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"add\".",
+    "body": "My favorite commit message words are:\n\n1. add (used 80 times)\n2. build (used 46 times)\n3. update (used 46 times)\n4. co-authored-by: (used 42 times)\n5. azure (used 42 times)",
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
+  },
+  {
+    "id": "fix-4",
+    "tier": 3,
+    "desc": "I did 4 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/AasishDairelSahayaGrinspan/text-editor/commit/c6e76fdb0a2ef99c5d11da3b9fb504df2c53d59d\">c6e76fd</a>: fix: sync title state and cursor placement with alignment\n- <a href=\"https://github.com/AasishDairelSahayaGrinspan/text-editor/commit/aeb28f0271b816ebda4fd6f521cdd9efe96b9f91\">aeb28f0</a>: fix: restore editor render and sync alignment/share permissions\n- <a href=\"https://github.com/AasishDairelSahayaGrinspan/text-editor/commit/ba3aba7f33fb0daf947878cf6d33c5d974b83810\">ba3aba7</a>: fix: include dev deps during azure postinstall\n- <a href=\"https://github.com/AasishDairelSahayaGrinspan/text-editor/commit/994b9b0303136ba63a834676f8d263f104eebcc7\">994b9b0</a>: fix: install server and client deps during azure build",
+    "image": "https://my-badges.github.io/my-badges/fix-4.png"
+  },
+  {
+    "id": "fix-2",
+    "tier": 1,
+    "desc": "I did 2 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/AasishDairelSahayaGrinspan/CodeMentor/commit/121adb55cfcbc7b22a8d542cfbda634926db7e4a\">121adb5</a>: Fix GitHub Actions test step failure\n- Allow test step to continue even when no tests are defined\n- Prevent deployment failure due to missing test suite\n- <a href=\"https://github.com/AasishDairelSahayaGrinspan/CodeMentor/commit/00d8e494eb8e6721df13eb7a829cb499cbf6262a\">00d8e49</a>: Fix GitHub Actions workflow for Azure deployment\n- Run npm install in learning-tutor-backend directory\n- Change Node.js version to 18.x to match Azure\n- Deploy from backend directory instead of root\n- Fix ENOENT error when package.json not found in root",
+    "image": "https://my-badges.github.io/my-badges/fix-2.png"
+  },
+  {
+    "id": "fix-6",
+    "tier": 5,
+    "desc": "I did 6 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/AasishDairelSahayaGrinspan/CodeMentor/commit/548da417c3c37f33d494992b8f953aab4bc7b9c3\">548da41</a>: fix: switch to Piston API for remote code execution to support deployed environment\n- <a href=\"https://github.com/AasishDairelSahayaGrinspan/CodeMentor/commit/1c0da7748458db456185350a76e79e76cbb84356\">1c0da77</a>: fix: force run code button position with important flags\n- <a href=\"https://github.com/AasishDairelSahayaGrinspan/CodeMentor/commit/c7e955dd023836ec03cd10dd74fb07ed2cbf5d25\">c7e955d</a>: fix: hard reset of layout css with important flags\n- <a href=\"https://github.com/AasishDairelSahayaGrinspan/CodeMentor/commit/611b435fa9d276049a8ad895594b995a06d7dbe3\">611b435</a>: fix: restore align-items stretch to fix collapsed sidebar\n- <a href=\"https://github.com/AasishDairelSahayaGrinspan/CodeMentor/commit/5bc647e4fbd913ac20139a8146494be799996ebd\">5bc647e</a>: fix: complete layout overhaul with proper flexbox for both panels\n- <a href=\"https://github.com/AasishDairelSahayaGrinspan/CodeMentor/commit/ddba41694fc6df4aafc322adeaccbe4070162f04\">ddba416</a>: fix: remove 400px media query override causing sidebar height issue",
+    "image": "https://my-badges.github.io/my-badges/fix-6.png"
+  },
+  {
+    "id": "fix-6+",
+    "tier": 6,
+    "desc": "I did 8 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/AasishDairelSahayaGrinspan/CodeMentor/commit/91fc7e492dcc88d09f2a1d1701f585f685218253\">91fc7e4</a>: fix: AI now gives full code explanations instead of fill-in-the-blank responses\n- <a href=\"https://github.com/AasishDairelSahayaGrinspan/CodeMentor/commit/462e021cbd71ded7d7b78ed3dc488fbf4970e94c\">462e021</a>: fix: add Tesseract OCR to Dockerfile for image analysis on Render\n- <a href=\"https://github.com/AasishDairelSahayaGrinspan/CodeMentor/commit/969358961a8e76fb44e858cf72484fc2be36d948\">9693589</a>: fix: chat scrolling fix, layout improvements, and AI logic updates\n- <a href=\"https://github.com/AasishDairelSahayaGrinspan/CodeMentor/commit/25dc994bd09cc599279a2bd06050d909cb9ac293\">25dc994</a>: fix: layout constraints and editor shrinking\n- <a href=\"https://github.com/AasishDairelSahayaGrinspan/CodeMentor/commit/c88fcd69ca95dd54748c59081112e598ad1758f6\">c88fcd6</a>: fix: syntax error in imageAnalyzer.js\n- <a href=\"https://github.com/AasishDairelSahayaGrinspan/CodeMentor/commit/7891d197ad1c3d232e2274afc4c5dc26afef13ff\">7891d19</a>: fix: chat input static, improve OCR filters for LeetCode, relax AI sanitizer\n- <a href=\"https://github.com/AasishDairelSahayaGrinspan/CodeMentor/commit/2b391484b3326efa4b64027b84cb24d65fc516ae\">2b39148</a>: fix: move output panel back above footer\n- <a href=\"https://github.com/AasishDairelSahayaGrinspan/CodeMentor/commit/06fe7e5498c4b559ba11ffcdf1c239a1b5838187\">06fe7e5</a>: fix: backend image analysis and frontend layout adjustments",
+    "image": "https://my-badges.github.io/my-badges/fix-6+.png"
+  },
+  {
+    "id": "pr-collaboration-5",
+    "tier": 1,
+    "desc": "I have participated in pull requests with 5 or more people",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/boykopovar/AnyPS5/pull/15112\">#15112</a>: fix(libSceImeDialog): validate result output pointer",
+    "image": "https://my-badges.github.io/my-badges/pr-collaboration-5.png"
+  },
+  {
+    "id": "programmers-day",
+    "tier": 0,
+    "desc": "Happy Programmers Day! I committed on a 256 Day of Year!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/AasishDairelSahayaGrinspan/bitwise-andoptr/commit/4acde40b4359a97cd4c3b0710b9bc4456cc69d99\">4acde40</a>\n- <a href=\"https://github.com/AasishDairelSahayaGrinspan/evaluate-formulae/commit/e9d7a7a1263fcee3b528e5a0634682128a4318bb\">e9d7a7a</a>",
+    "image": "https://my-badges.github.io/my-badges/programmers-day.png"
+  },
+  {
+    "id": "winter-solstice-commits",
+    "tier": 0,
+    "desc": "I commit in the Winter solstice.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/AasishDairelSahayaGrinspan/CalmNest_bot/commit/5da9ef413d6c738f401fb23f2480cb2cc497c5e9\">5da9ef4</a>",
+    "image": "https://my-badges.github.io/my-badges/winter-solstice-commits.png"
+  },
+  {
+    "id": "self-star",
+    "tier": 0,
+    "desc": "I've starred 4 my own repositories.",
+    "body": "- <a href=\"https://github.com/AasishDairelSahayaGrinspan/CalmNest_bot\">AasishDairelSahayaGrinspan/CalmNest_bot</a>\n- <a href=\"https://github.com/AasishDairelSahayaGrinspan/dns.toys\">AasishDairelSahayaGrinspan/dns.toys</a>\n- <a href=\"https://github.com/AasishDairelSahayaGrinspan/Unravel-Mental-Wellness-app\">AasishDairelSahayaGrinspan/Unravel-Mental-Wellness-app</a>\n- <a href=\"https://github.com/AasishDairelSahayaGrinspan/RepoAnt\">AasishDairelSahayaGrinspan/RepoAnt</a>",
+    "image": "https://my-badges.github.io/my-badges/self-star.png"
+  },
+  {
+    "id": "sleepy-coder",
+    "tier": 0,
+    "desc": "I am a sleepy coder.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/AasishDairelSahayaGrinspan/rageEMU/commit/60712d04a6e15542dba76b473838d0bc3f9e2004\">60712d0</a>\n- <a href=\"https://github.com/AasishDairelSahayaGrinspan/rageEMU/commit/af74943714d75996e5657dcd01bb97e83c029ed6\">af74943</a>\n- <a href=\"https://github.com/AasishDairelSahayaGrinspan/rageEMU/commit/313bf6801c44a8e4b75886b8ea90d0d7f141e74f\">313bf68</a>\n- <a href=\"https://github.com/AasishDairelSahayaGrinspan/project_TNS/commit/182e5f34b203bbf3f3c52b6f14e68d623fcbd66f\">182e5f3</a>\n- <a href=\"https://github.com/AasishDairelSahayaGrinspan/SPC-Monitoring-System/commit/b036d8064d2da3a9d70080b0df4e2f162fe0c187\">b036d80</a>\n- <a href=\"https://github.com/AasishDairelSahayaGrinspan/Razorpay_buildathon_2026/commit/144df0ad191bc81232e703558f4dd377c08c2deb\">144df0a</a>",
+    "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
+  },
+  {
+    "id": "morning-commits",
+    "tier": 0,
+    "desc": "I commit in the morning.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/AasishDairelSahayaGrinspan/project_TNS/commit/642106a21ca906090683365e26e7cd2b4d4451ec\">642106a</a>\n- <a href=\"https://github.com/AasishDairelSahayaGrinspan/project_TNS/commit/d4d25f8d5d56aa6957b36a36d9fa75b71827497d\">d4d25f8</a>\n- <a href=\"https://github.com/AasishDairelSahayaGrinspan/project_TNS/commit/538279894f6ae53cd2f17fd2f8c9c6e28f4badd3\">5382798</a>\n- <a href=\"https://github.com/AasishDairelSahayaGrinspan/Razorpay_buildathon_2026/commit/7c4626bd45e5a63cba129469497f229c75da545d\">7c4626b</a>\n- <a href=\"https://github.com/AasishDairelSahayaGrinspan/Razorpay_buildathon_2026/commit/21068b90887fa99a19b5c002b28bfdabf2e96683\">21068b9</a>\n- <a href=\"https://github.com/AasishDairelSahayaGrinspan/modqueue-prioritizer/commit/5ad678654fa9b1abbf2f9cf241bb6d59544e2f2a\">5ad6786</a>",
+    "image": "https://my-badges.github.io/my-badges/morning-commits.png"
+  },
+  {
+    "id": "evening-commits",
+    "tier": 0,
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/AasishDairelSahayaGrinspan/Razorpay_buildathon_2026/commit/f562cf26b5fd3d3a948e0666d96faaa8810b0bbf\">f562cf2</a>\n- <a href=\"https://github.com/AasishDairelSahayaGrinspan/CalmNest_bot/commit/4fc6451d8ef36178996fceef09f2c5cc30035116\">4fc6451</a>\n- <a href=\"https://github.com/AasishDairelSahayaGrinspan/CalmNest_bot/commit/db5f860fe481872e58c7aab90399e6577853e092\">db5f860</a>\n- <a href=\"https://github.com/AasishDairelSahayaGrinspan/CalmNest_bot/commit/8cdc3063f1d5f28299d65fdce2de459b151d1f43\">8cdc306</a>\n- <a href=\"https://github.com/AasishDairelSahayaGrinspan/CalmNest_bot/commit/5da9ef413d6c738f401fb23f2480cb2cc497c5e9\">5da9ef4</a>\n- <a href=\"https://github.com/AasishDairelSahayaGrinspan/cpp-question-answer/commit/c725bf764c0d9247cbd6afb39971e0a9fdf77938\">c725bf7</a>",
+    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   }
 ]

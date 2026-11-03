@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/AasishDairelSahayaGrinspan/homebrew-repoant/commit/d589fa810177bb99d95c3402759dc50d3008bd22">d589fa8</a>: chore: initialize tap repository
+- <a href="https://github.com/AasishDairelSahayaGrinspan/EVE_backend/commit/89005be1e58275742e62562d2f16caa30b28d569">89005be</a>: chore: project setup, config, db session, logging
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
